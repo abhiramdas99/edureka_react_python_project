@@ -1,0 +1,10 @@
+# step to push the project directly to the github
+1) goto your project folder in visual code terminal 
+2) git init  //to initilized with git
+3) git add. 
+4) git commit -m "Add existing project files prior to the push to GitHub."
+5) git remote add origin git@github.com:abhiramdas99/edureka_react_python_project.git
+6) git branch -M main 
+7) git push -u origin main
+
+if you wrongly create the remote origin please use the following command to correct it
